@@ -1,0 +1,83 @@
+/* ***********start header************ */
+.container-fluid{
+    padding: 0;
+    margin: 0 auto;
+}
+.row{
+    margin: 0%;
+}
+
+
+header{
+    background-image: url("../../public/imgs/Home.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.header-info{
+    margin-top: 200px;
+    padding-left: 30rem;
+}
+.btn-outline-secondary {
+
+    --bs-btn-color: #ffffff;
+    --bs-btn-border-color: #ffffff;
+    --bs-btn-active-color: #fff;
+}
+/* ***********end header************ */
+/* ***********start responsive header************ */
+@media(max-width:992px){
+    .header-info{
+        margin-top: 200px;
+        padding-left: 10rem;
+    }
+}
+@media(max-width:768px){
+    .header-info{
+        margin-top: 200px;
+        padding-left: 1rem;
+    }
+}
+/* ***********end responsive header************ */
+/* ***********start main************ */
+/* ***********start about us************ */
+.card-info{
+    margin-top: 5rem;
+  
+}
+.about-image{
+   max-width:1000px;
+}
+/* ***********end about us************ */
+.profile-card-blog{
+    background-image: url(../../public/imgs/1-new\ 1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    aspect-ratio: 1; 
+}
+.profile-card-blogg{
+    background-image: url(../../public/imgs/2-new\ 1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    aspect-ratio: 1; 
+}
+.profile-card-bloggg{
+    background-image: url(../../public/imgs/3-box-new\ 1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    aspect-ratio: 1; 
+}
+
+/* ***********footer************* */
+footer{
+    background-color: #2F2F2F;
+}
+.logo-footer{
+    width: 100px;
+    padding-bottom: 30px;
+}

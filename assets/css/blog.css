@@ -1,0 +1,104 @@
+.blogs{
+    margin-top: 7rem;
+}
+.profile-card-blog{
+    background-image: url(../../public/imgs/1-new\ 1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    aspect-ratio: 1; 
+width: 251px;
+height: 315px;
+}
+
+
+main .types:nth-child(1) .container:nth-child(1) .row .col-12:nth-child(1) .profile-card-blog{
+    background-image: url(../../public/imgs/Cleanser\ 1.png
+    );
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    aspect-ratio: 1; 
+    width: 251px;
+    height: 315px;
+}
+main .types:nth-child(1) .container:nth-child(1) .row .col-12:nth-child(2) .profile-card-blog{
+    background-image: url(../../public/imgs/eye1-patches\ 1.png
+    );
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    aspect-ratio: 1; 
+    width: 251px;
+    height: 315px;
+}
+main .types:nth-child(1)  .container:nth-child(1) .row .col-12:nth-child(3) .profile-card-blog{
+    background-image: url(../../public/imgs/mask\ 1.png
+    );
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    aspect-ratio: 1; 
+    width: 251px;
+    height: 315px;
+}
+main .types:nth-child(2) .container:nth-child(1) .row .col-12:nth-child(1) .profile-card-blog{
+    background-image: url(../../public/imgs/Body-scrab\ 1.png
+    );
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    aspect-ratio: 1; 
+    width: 251px;
+    height: 315px;
+}
+main .types:nth-child(2) .container:nth-child(1) .row .col-12:nth-child(2) .profile-card-blog{
+    background-image: url(../../public/imgs/body-lotion\ 1.png
+    );
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    aspect-ratio: 1; 
+    width: 251px;
+    height: 315px;
+}
+main .types:nth-child(2) .container:nth-child(1) .row .col-12:nth-child(3) .profile-card-blog{
+    background-image: url(../../public/imgs/body-oil\ 1.png
+    );
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    aspect-ratio: 1; 
+    width: 251px;
+    height: 315px;
+}
+main .types:nth-child(3) .container:nth-child(1) .row .col-12:nth-child(1) .profile-card-blog{
+    background-image: url(../../public/imgs/blog-hairbrush\ 1.png
+    );
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    aspect-ratio: 1; 
+    width: 251px;
+    height: 315px;
+}
+main .types:nth-child(3) .container:nth-child(1) .row .col-12:nth-child(2) .profile-card-blog{
+    background-image: url(../../public/imgs/Hair\ Styling\ 1.png
+    );
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    aspect-ratio: 1; 
+    width: 251px;
+    height: 315px;
+}
+main .types:nth-child(3) .container:nth-child(1) .row .col-12:nth-child(3) .profile-card-blog{
+    background-image: url(../../public/imgs/blogs-split\ ends\ 1.png
+    );
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    aspect-ratio: 1; 
+    width: 251px;
+    height: 315px;
+}

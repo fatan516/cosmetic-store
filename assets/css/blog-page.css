@@ -1,0 +1,15 @@
+.textt{
+    max-width: 1500px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.text{
+    max-width: 1500px;
+    font-size: 18px;
+    font-weight:600;
+}
+
+.size{
+    width: 514px;
+    height: 514px;
+}
